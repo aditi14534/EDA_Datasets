@@ -26,11 +26,13 @@
  mean_squared_error, r2_score
 
  How To Use:
+ 
  Clone this repository: git clone https://github.com/aditi14534/EDA_Datasets.git
  Navigate to the repository: cd EDA-Datasets
  Open and run the Jupyter Notebook and google colab notebook on each dataset to explore the analysis.
 
  Dependencies:
+ 
  pip install pandas
  pip install numpy 
  pip install matplotlib 
